@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут:
 
-[Мое Резюме](https://nanotechnolog.github.io/resume/).
+[Моя первая работа на HTML & CSS](https://nanotechnolog.github.io/resume/).
